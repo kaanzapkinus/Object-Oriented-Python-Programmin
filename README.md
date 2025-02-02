@@ -2,8 +2,7 @@
 
 This repository provides resources and code from a series of Python classes focused on object-oriented programming. Each session's materials are stored in dedicated folders, making it easy to navigate and access content for each class. Below are links to the class folders:
 
-- [Session 1 (C1)](C1/)
-- [Class 1](Class_1/)
+- [Class 1](Class 1/)
 - [Class 2](Class_2/)
 - [Class 3](Class_3/)
 - [Class 4](Class_4/)
