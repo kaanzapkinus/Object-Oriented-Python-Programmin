@@ -19,7 +19,7 @@ This repository provides resources and code from a series of Python classes focu
 
 This repository acts as a reference for the concepts discussed in each class related to object-oriented programming. Each session folder contains relevant code, notes, and additional resources to support learning and understanding.
 
-## How to Use
+## How to Use?
 
 To explore the content of a specific session, click on the corresponding link above. Inside each folder, you’ll find notes, code examples, and related learning materials.
 
